@@ -2,6 +2,22 @@
 
 DevFlow is a responsive project and task management dashboard built with HTML, Tailwind CSS, and Vanilla JavaScript.
 
+
+## Preview
+
+### Dashboard
+![DevFlow Dashboard](screenshots/dashboard.png)
+
+![DevFlow Dashboard Overview](screenshots/dashboard2.png)
+
+### Projects
+![DevFlow Projects](screenshots/projects.png)
+
+### My Tasks
+![DevFlow Tasks](screenshots/tasks.png)
+
+
+
 ## Features
 
 - Create, edit, and delete tasks
